@@ -1,4 +1,2 @@
 ---
-puppetserver::min_heap_size: '512m'
-puppetserver::max_heap_size: '512m'
-puppetserver::r10_control_repo: 'git@github.com:devops-jason/controlrepo.git'
+
